@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# OS 별 불필요한 파일
+.DS_Store
+Thumbs.db
+
+# 로그, 캐시, 임시 파일
+*.log
+*.class
+*.bin
